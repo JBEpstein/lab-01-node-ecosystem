@@ -31,3 +31,4 @@ describe('subtraction', function () {
     expect(result).toEqual(null);
   });
 });
+// Added last null test
