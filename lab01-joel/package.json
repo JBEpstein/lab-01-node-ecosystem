@@ -1,0 +1,26 @@
+{
+    "name": "lab-01-node-ecosystem",
+    "version": "0.0.1",
+    "description": "First lab in 401 yay",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JBEpstein/lab-01-node-ecosystem.git"
+    },
+    "author": "Joel Epstein",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/JBEpstein/lab-01-node-ecosystem/issues"
+    },
+    "homepage": "https://github.com/JBEpstein/lab-01-node-ecosystem#readme",
+    "devDependencies": {
+        "expect": "^21.1.0",
+        "mocha": "^3.5.3"
+    }
+}
